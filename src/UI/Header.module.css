@@ -48,7 +48,8 @@
 }
 
 .nav:hover {
-  background: #1c1d1e;
+  background: rgba(26, 26, 26, 0.5);
+  transition: background-color 0.3s;
 }
 
 .logo {

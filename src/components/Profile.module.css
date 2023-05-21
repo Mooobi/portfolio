@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(9, 9, 9, 0.7);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+  color: #f2f2f2;
+  border-radius: 0.5rem;
+  height: 70vh;
+  width: 30vw;
+}
+
+.header {
+  font-size: 4vh;
+  font-weight: bold;
+  padding-bottom: 3vh;
+}
+
+.header span {
+  font-size: 6.5vh;
+  text-decoration: underline;
+  text-decoration-thickness: 0.2rem;
+  text-underline-offset: 1vh;
+}
+
+.article {
+  font-size: 2vh;
+}
+
+.article :first-child {
+  font-weight: bold;
+  border-top: 0.1vh solid rgb(222, 222, 222);
+  border-bottom: 0.1vh solid rgb(222, 222, 222);
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.article :nth-child(2) {
+  padding-top: 3vh;
+  font-size: 1rem;
+}

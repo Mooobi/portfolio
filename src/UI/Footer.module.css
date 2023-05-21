@@ -3,9 +3,9 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgb(24, 24, 24);
 }
 
 .content {
-  color: rgb(35, 35, 35);
+  color: rgb(255, 255, 255);
 }
