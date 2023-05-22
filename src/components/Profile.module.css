@@ -34,6 +34,8 @@
   border-bottom: 0.1vh solid rgb(222, 222, 222);
   padding-top: 3vh;
   padding-bottom: 3vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
 }
 
 .article :nth-child(2) {
