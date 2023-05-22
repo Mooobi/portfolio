@@ -1,0 +1,11 @@
+footer {
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(24, 24, 24);
+}
+
+.content {
+  color: rgb(255, 255, 255);
+}

@@ -17,7 +17,7 @@ const Header = () => {
           </div>
           <div className={classes.bottom} />
         </section>
-        <Link className={classes.middle} to="home" spy={true} smooth={true}>
+        <Link className={classes.middle} to="main" spy={true} smooth={true}>
           <img src={logo} alt="logo" className={classes.logo} />
         </Link>
         <section className={classes.side}>
